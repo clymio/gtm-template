@@ -1,0 +1,5 @@
+homepage: "https://clym.io"
+documentation: "http://knowledge.clym.io/gtm-template"
+versions:
+  - sha: 9d5ac4d42ced7c4b377717afe22901d32175ef0d
+    changeNotes: Initial release.
